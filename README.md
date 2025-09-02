@@ -1,5 +1,5 @@
 # LearnAI2025
-List of learning to become proficient with AI. It will be a 14 day program to cover the basic to advance. The spectrum starts with basic LLM to Agentic AI
+For School students, the usage of AI should become a common / routine task. To enable students to get familar with AI , I have a put a 14 day program to cover the basic to advance. The spectrum starts with basic LLM to Agentic AI
 Artificial Intelligence in 2025 isn’t just a buzzword—it’s the backbone of modern problem-solving, creativity, and decision-making across industries. From autonomous agents and multimodal systems to explainable graph-based reasoning and human-in-the-loop workflows, AI is evolving into a collaborative partner, not just a tool. 
 
 This 14-day program is your gateway into that future. 
